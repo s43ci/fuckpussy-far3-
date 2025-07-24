@@ -2,7 +2,7 @@ const { Telegraf, Markup } = require('telegraf');
 const cron = require('node-cron');
 const db = require('quick.db');
 
-const bot = new Telegraf('YOUR_BOT_TOKEN');
+const bot = new Telegraf('8036872050:AAG3mWJoaQR3DBd1scgNlyR4KgEH1p7GP9s');
 const ADMIN_ID = '7708626625';
 
 // تأكيد هوية الأدمن
